@@ -9,7 +9,4 @@
   - Once we have a model, predict a game from the day of or the night before.
 
 
-Lightgbm vs. xgboost
-
-tqdm
-  
+The goal of this project was to utilize a machine learning model that can predict the winner of an NBA game.
