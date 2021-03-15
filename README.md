@@ -9,4 +9,4 @@
   - Once we have a model, predict a game from the day of or the night before.
 
 
-The goal of this project was to utilize a machine learning model that can predict the winner of an NBA game.
+The goal of this project was to utilize a machine learning model that can predict the winner of an NBA game. In order to do this, we first downloaded data from kaggle that inclduded game and team statistics spanning from 2004 to 2020. Then 
