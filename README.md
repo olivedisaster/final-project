@@ -2,13 +2,6 @@
 
 ***Sports Betting Machine Learning Project***
 
-  - Train algorithm on 2010-2018, then test on 2019. 
-  - Run model on 32 games separately (Round 1), Run model on 16 games (Round 2), etc. - *ACCURACY SCORE*
-  - Use XGboost
-  - Clean data comes from Kaggle.
-  - Once we have a model, predict a game from the day of or the night before.
-
-
 The goal of this project was to utilize a machine learning model that can predict the winner of an NBA game. 
 
 The first step in this process was to scour the internet for a dataset that would provide us with rich historical NBA game data. Our team located several datasets on kaggle that provided us with overall game data, detailed player stats, and team rankings. 
