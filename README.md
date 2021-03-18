@@ -22,6 +22,6 @@ With the rolling averages for the home and away team calculated, we used those f
   -RandomForestClassifier
     - 55% Accuracy
 
-The RandomForestClassifier achieved the highest level of accuracy at 55%. 
+The RandomForestClassifier achieved the highest level of accuracy at 55%. Thus, we used this model in order to determine how much money we would win after running the models twice.
 
 
